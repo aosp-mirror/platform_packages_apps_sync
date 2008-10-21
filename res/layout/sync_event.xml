@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="20dip">
+
+    <TextView android:id="@+id/time"
+	      android:layout_width="105dip"
+	      android:layout_height="20dip"/>
+
+    <TextView android:id="@+id/authority"
+	      android:layout_width="60dip"
+	      android:layout_height="20dip"/>
+
+    <TextView android:id="@+id/event"
+	      android:layout_width="45dip"
+	      android:layout_height="20dip"/>
+
+    <TextView android:id="@+id/source"
+	      android:layout_width="55dip"
+	      android:layout_height="20dip"/>
+
+    <TextView android:id="@+id/mesg"
+	      android:layout_width="130dip"
+	      android:layout_height="20dip"/>
+
+    <TextView android:id="@+id/account"
+	      android:layout_width="130dip"
+	      android:layout_height="20dip"/>
+
+</LinearLayout>

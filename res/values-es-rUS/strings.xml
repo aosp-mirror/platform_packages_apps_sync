@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="sync_screen_advanced_text">Avanzado</string>
+  <string name="sync_screen_history_text">Historial</string>
+  <string name="sync_screen_listenForTickles_text">Cambio automático de sincronización</string>
+  <string name="sync_screen_status_text">Inactivo</string>
+  <string name="sync_screen_sync_text">Sincronizar ahora</string>
+  <string name="sync_status_label">Estado:</string>
+</resources>
