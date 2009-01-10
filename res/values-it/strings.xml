@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="sync_status_label">"Stato:"</string>
+    <!-- no translation found for sync_screen_account_text (2270479274049144606) -->
+    <skip />
+    <!-- no translation found for sync_screen_moreStatus_text (5949940473371586804) -->
+    <skip />
+    <string name="sync_screen_sync_text">"Sincronizza"</string>
+    <string name="sync_screen_advanced_text">"Avanzate"</string>
+    <string name="sync_screen_history_text">"Cronologia"</string>
+    <string name="sync_screen_listenForTickles_text">"Sincronizza modifiche automat."</string>
+    <string name="sync_screen_status_text">"Inattivo"</string>
+</resources>
